@@ -2,4 +2,3 @@
 
 # Languages
 - I code in Python, HTML, some JavaScript
-- Learning C
